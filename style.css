@@ -89,6 +89,9 @@ header{
     font-weight: 300;
     word-spacing: 2px;
 }
+.banner-title p{
+    padding 20px 0px;
+}
 .banner form{
     background: #fff;
     border-radius:2rem;
